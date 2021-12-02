@@ -1,0 +1,29 @@
+h1
+{
+    margin-left: 30px;
+    color: hotpink;
+    text-decoration: underline;
+}
+
+input
+{
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 200px;
+    background-color: lightpink;
+    border: solid;
+    font-weight: bold;
+}
+button
+{
+    margin-bottom: 20px;
+    background-color: mediumturquoise;
+}
+hr
+{
+    margin-bottom: 15px;
+}
+body
+{
+    background-color: powderblue;
+}
